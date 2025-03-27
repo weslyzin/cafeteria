@@ -307,7 +307,7 @@ section {
 
     .content h3 {
         font-size: 30px;
-        margin-top: 20px;
+        margin-top: 0;
     }
 
     .content p {
